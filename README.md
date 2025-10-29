@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=sulayman122324&label=Profile%20views&color=0e75b6&style=flat" alt="sulayman122324" />
 </p>
 
-<h1 align="center">Hi 👋, I'm sulayman122324</h1>
+<h1 align="center">Hi 👋, I'm sulayman</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
